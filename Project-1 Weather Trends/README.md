@@ -1,0 +1,2 @@
+Explore Weather Trends
+In this project, you'll get familiar with SQL, and learn how to download data from a database. You’ll analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
